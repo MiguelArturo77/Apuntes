@@ -6,3 +6,7 @@ Capítulo 3: Repositorios remotos
 <--- Carlos Feliz commit --->
 
 Esto es un commit de un colaborador
+
+
+Creativity != Insanity
+but properly combined = homerun
